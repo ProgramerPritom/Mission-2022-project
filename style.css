@@ -1,6 +1,6 @@
 body{
     font-family: 'Inter', sans-serif;
-    margin-left: 35px;
+    margin-left: 45px;
 }
 .header-area{
     display: flex;
@@ -9,6 +9,11 @@ body{
 }
 .header-text-area h1{
     font-size: 65px;
+    border-left: 7px solid #FF5959;
+    border-radius: 7px;
+}
+.mission-text{
+    color: #FFAD5A;
 }
 
 
