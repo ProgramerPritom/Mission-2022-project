@@ -10,12 +10,13 @@ body{
 }
 .header-text-area h1{
     font-size: 65px;
-    /* border-left: 7px solid #FF5959; */
-    /* border-radius: 7px; */
-    /* padding-left: 12px;*/
-    position: relative; 
-    margin-left: 10px;
+     border-left: 7px solid #FF5959; 
+     border-radius: 7px; 
+     padding-left: 12px;
+    /* position: relative;  */
+     margin-left: 10px;
 }
+/*
 .header-text-area h1 ::after{
     content: "";
     display: block;
@@ -27,7 +28,7 @@ body{
     position: absolute;
     border-radius: 3px;
 }
-
+*/
 .mission-text{
     color: #FFAD5A;
 }
