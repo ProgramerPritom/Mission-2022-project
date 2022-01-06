@@ -14,7 +14,7 @@ body{
     /* border-radius: 7px; */
     /* padding-left: 12px;*/
     position: relative; 
-    margin-left: 20px;
+    margin-left: 10px;
 }
 .header-text-area h1 ::after{
     content: "";
@@ -51,10 +51,10 @@ body{
 }
 
 .header-image-area img{
-    width: 50%;
+    width: 65%;
     position: relative;
-    top: -41px;
-    left: 275px;
+    top: -40px;
+    left: 180px;
 }
 .my-mission h1{
     font-size: 55px;
@@ -110,17 +110,53 @@ body{
     line-height: 30px;
     margin-bottom: 32px;
 }
+.global-area{
+    display: flex;
+    margin-top: 60px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+.global-text-area{
+    margin-top: 30px;
+    
+}
+.global-text-area h1{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 20px;
+}
+.global-text-area p{
+    line-height: 30px;
+    margin-bottom: 32px;
+}
+
+.global-image-area img{
+    width: 70%;
+    margin-left: 100px;
+    margin-top: 45px;
+    
+}
 
 
 
 
 
 
-
-
-
-
-
+.footer-area{
+height: 150px;
+background-color: #0B0D17;
+}
+.footer-area h1{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    padding-top: 35px;
+}
+.footer-area p{
+    color: #D9DBE1;
+    text-align: center;
+    top: 20px;
+}
 
 
 
