@@ -1,6 +1,6 @@
 body{
     font-family: 'Inter', sans-serif;
-    margin-left: 45px;
+    margin-left: 55px;
     margin-right: 25px;
 }
 .header-area{
@@ -64,6 +64,7 @@ body{
 .mission-body{
     display: flex;
     width: 100%;
+    margin-bottom: 60px;
 }
 .mission-item-1,.mission-item-2,.mission-item-3{
     padding: 10px 20px;
@@ -86,9 +87,29 @@ body{
     background-color: #FFF4D6;
     border-radius: 20px;
 }
+.devlop-area{
+    display: flex;
+    /* width: 100%; */
+    margin-top: 90px;
+    margin-bottom: 50px;
+    
 
+}
+.devlop-img-area img{
+    width: 70%;
+    margin-left: 50px;
 
-
+}
+.devlop-text-area h1{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 12px;
+    margin-top: 50px;
+}
+.devlop-text-area p{
+    line-height: 30px;
+    margin-bottom: 32px;
+}
 
 
 
